@@ -20,4 +20,4 @@ Using [husky](https://www.npmjs.com/package/husky) we can check all of our style
 
 yarn build will create a dist folder that inludes that js files
 
-Its advisible to use yarn over npm
+It's advisable to use yarn over npm
