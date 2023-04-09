@@ -1,2 +1,2 @@
-const x: number = 5;
+const x = "hello worlsd";
 console.log(x);
