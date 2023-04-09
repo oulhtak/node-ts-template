@@ -20,4 +20,8 @@ Using [husky](https://www.npmjs.com/package/husky) we can check all of our style
 
 yarn build will create a dist folder that inludes that js files
 
+### Notes
+
+all entries in .gitignore should be ignored by Prettier without the need to specify --ignore-path .gitignore or the default .prettierignore-
+
 It's advisable to use yarn over npm
